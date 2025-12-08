@@ -13,7 +13,7 @@ print("Columns detected:", df.columns)
 
 # ─────────────────────────────────────────────
 # SQL Equivalent (for documentation)
-print("\n📌 SQL Query: Average charges by region and smoking status")
+print("\n SQL Query: Average charges by region and smoking status")
 print("""
 SELECT 
     region,
@@ -64,4 +64,5 @@ sns.scatterplot(x="bmi", y="charges", hue="smoker", data=df, alpha=0.6)
 plt.title("BMI vs Charges (Smoker VS Non-Smoker)")
 plt.tight_layout()
 plt.show()
+
 plt.close()
