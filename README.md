@@ -1,7 +1,1 @@
-# Healthcare-Cost-Analysis
-
-This is helpful content
-
-Absolutely! Here’s a crisp 5-line explanation of Health Care Distribution:
-
-Health care distribution ensures medicines, equipment, and services reach the right people at the right time.
+A simple SQL project that builds an employee database and analyzes salary, job levels, performance, and experience trends. Includes table creation, sample data, and multiple analytical queries to help beginners practice real-world SQL data analysis.
